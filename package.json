@@ -15,18 +15,13 @@
   "dependencies": {
     "base-64": "^0.1.0",
     "body-parser": "^1.18.3",
-    "change-case-object": "^2.0.0",
     "compression": "^1.7.2",
-    "cross-env": "^5.2.0",
     "express": "^4.16.3",
     "express-basic-auth": "^1.2.0",
-    "express-healthcheck": "^0.1.0",
-    "knex": "^0.14.6",
     "node-service-utilities": "0.0.13",
     "npm": "^6.1.0",
     "pg-promise": "^6.4.0",
     "request": "^2.88.2",
-    "string-template": "^1.0.0",
     "swagger-ui-express": "^3.0.9",
     "validator": "^8.1.0",
     "winston": "^2.4.2"
