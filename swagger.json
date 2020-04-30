@@ -1,0 +1,213 @@
+{
+  "swagger": "3.0",
+  "info": {
+    "description": "This is the API documentation of the product-service-loop-technical-challenge.",
+    "version": "1.0.0",
+    "title": "product-service-loop-technical-challenge"
+  },
+  "host": "localhost:3000",
+  "basePath": "/api/v1",
+  "tags": [
+    {
+      "name": "products",
+      "description": "Endpoints for getting product info"
+    }
+  ],
+  "schemes": [
+    "http"
+  ],
+  "paths": {
+    "/productInfo": {
+      "get": {
+        "tags": [
+          "productInfo"
+        ],
+        "description": "Get all product records",
+        "operationId": "getProductInfo",
+        "consumes": [
+          "application/json"
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "name": "fields",
+            "in": "query",
+            "description": "Choose which fields to return",
+            "required": false,
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "product_name",
+                "variants",
+                "variant_id",
+                "product_id",
+                "image",
+                "variant_name",
+                "price",
+                "stock",
+                "quantity",
+                "total"
+              ],
+              "default": "*"
+            },
+            "examples": {
+              "200": "?fields=product_name"
+            }
+          },
+          {
+            "name": "sort",
+            "in": "query",
+            "description": "Sort the response, starting with the first parameter. Minus sign means sort in descending order",
+            "required": false,
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "price",
+                "stock",
+                "quantity",
+                "total"
+              ]
+            },
+            "examples": {
+              "200": "?sort=-price"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/products"
+              }
+            },
+            "examples": {
+              "response": [
+                {
+                  "product_name": "Colorful Birds",
+                  "variants": [
+                    {
+                      "variant_id": 42336694548,
+                      "product_id": 10826345236,
+                      "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                      "variant_name": "Colorful Birds - Small / Red",
+                      "price": "12.00",
+                      "stock": 30,
+                      "quantity": 18,
+                      "total": "216.00"
+                    },
+                    {
+                      "variant_id": 155461517332,
+                      "product_id": 10826345236,
+                      "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                      "variant_name": "Colorful Birds - Small / Blue",
+                      "price": "12.00",
+                      "stock": 38,
+                      "quantity": 11,
+                      "total": "120.00"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "400": {
+            "description": "Bad Request",
+            "examples": {
+              "query": "?sort=badField",
+              "response": {
+                "message": "Invalid sort field: badField",
+                "status": "invalid"
+              }
+            }
+          },
+          "401": {
+            "description": "Unauthorized",
+            "examples": {
+              "application/json": {}
+            }
+          },
+          "500": {
+            "description": "Internal Server Error",
+            "examples": {
+              "application/json": {
+                "error": "Unable to get requested data"
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "basicAuth": {}
+          }
+        ]
+      }
+    }
+  },
+  "securityDefinitions": {
+    "basicAuth": {
+      "type": "basic"
+    }
+  },
+  "definitions": {
+    "products": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "product_id"
+        ],
+        "properties": {
+          "product_id": {
+            "type": "integer",
+            "example": 23443564355,
+            "description": "Unique product ID"
+          },
+          "variant_Id": {
+            "type": "integer",
+            "example": 123123123,
+            "description": "Unique variant ID"
+          },
+          "image": {
+            "type": "string",
+            "example": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+            "description": "URL for image of product"
+          },
+          "variant_name": {
+            "type": "string",
+            "example": "Colorful Birds - Small / Red",
+            "description": "product variant name"
+          },
+          "price": {
+            "type": "Double",
+            "example": 17.77,
+            "description": "Price for a single product."
+          },
+          "stock": {
+            "type": "integer",
+            "example": 1.2,
+            "description": "Current inventory for that product."
+          },
+          "quantity": {
+            "type": "integer",
+            "example": 180.1,
+            "description": "Number of times product has sold."
+          },
+          "total": {
+            "type": "Double",
+            "example": 14.83,
+            "description": "Total amount of money earned from number of products sold."
+          }
+        }
+      },
+      "xml": {
+        "name": "recordset"
+      }
+    }
+  }
+}

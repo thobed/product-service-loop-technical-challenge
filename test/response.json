@@ -1,0 +1,3915 @@
+[
+    {
+        "product_name": "Colorful Birds",
+        "variants": [
+            {
+                "variant_id": 42336694548,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Small / Red",
+                "price": "12.00",
+                "stock": 30,
+                "quantity": 18,
+                "total": "216.00"
+            },
+            {
+                "variant_id": 155461517332,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Small / Blue",
+                "price": "12.00",
+                "stock": 38,
+                "quantity": 11,
+                "total": "120.00"
+            },
+            {
+                "variant_id": 155461550100,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Medium / Red",
+                "price": "12.00",
+                "stock": 5,
+                "quantity": 3,
+                "total": "36.00"
+            },
+            {
+                "variant_id": 155461582868,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Medium / Blue",
+                "price": "12.00",
+                "stock": 42,
+                "quantity": 4,
+                "total": "48.00"
+            },
+            {
+                "variant_id": 28000476495974,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Small / Red",
+                "price": "12.00",
+                "stock": -13,
+                "quantity": 4,
+                "total": "48.00"
+            },
+            {
+                "variant_id": 28000476528742,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Small / Blue",
+                "price": "12.00",
+                "stock": 12,
+                "quantity": 6,
+                "total": "60.00"
+            },
+            {
+                "variant_id": 28000476594278,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Medium / Red",
+                "price": "12.00",
+                "stock": 8
+            },
+            {
+                "variant_id": 28000476627046,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Medium / Blue",
+                "price": "12.00",
+                "stock": 82,
+                "quantity": 1,
+                "total": "12.00"
+            },
+            {
+                "variant_id": 31462878609510,
+                "product_id": 4649679257702,
+                "variant_name": "Delete Variant - s",
+                "price": "10.00",
+                "stock": -3,
+                "quantity": 1,
+                "total": "10.00"
+            },
+            {
+                "variant_id": 993244479508,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $10.00",
+                "price": "10.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244512276,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $25.00",
+                "price": "25.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244545044,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $50.00",
+                "price": "50.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244577812,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $100.00",
+                "price": "100.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 16145072488550,
+                "product_id": 1662977474662,
+                "variant_name": "Go-To Polo Navy - Large",
+                "price": "68.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 16145072521318,
+                "product_id": 1662977474662,
+                "variant_name": "Go-To Polo Navy - X-Large",
+                "price": "68.00",
+                "stock": 96
+            },
+            {
+                "variant_id": 16145425301606,
+                "product_id": 1663055069286,
+                "variant_name": "Loop Test Widget - Large",
+                "price": "10.00",
+                "stock": 39,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 13841570627686,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - S",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 13841570660454,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - M",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 13841570693222,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - L",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 42336967188,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Loud",
+                "price": "120.00",
+                "stock": 0
+            },
+            {
+                "variant_id": 155500412948,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Quiet",
+                "price": "120.00",
+                "stock": -2
+            },
+            {
+                "variant_id": 155500445716,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Ghost",
+                "price": "120.00",
+                "stock": -1
+            },
+            {
+                "variant_id": 42336616276,
+                "product_id": 10826335700,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/raven-2136081_1920.jpg?v=1496242881",
+                "variant_name": "Secret Raven - Default Title",
+                "price": "100.00",
+                "stock": 45,
+                "quantity": 1,
+                "total": "100.00"
+            },
+            {
+                "variant_id": 42336410516,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - Small",
+                "price": "10.00",
+                "stock": 42,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 155475247124,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - X-Small",
+                "price": "10.00",
+                "stock": 43,
+                "quantity": 1,
+                "total": "10.00"
+            },
+            {
+                "variant_id": 155475279892,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - Micro",
+                "price": "10.00",
+                "stock": 48,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 27919076917350,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - s",
+                "price": "10.00",
+                "stock": 9998
+            },
+            {
+                "variant_id": 27919076950118,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - m",
+                "price": "10.00",
+                "stock": 9998
+            },
+            {
+                "variant_id": 27919076982886,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - l",
+                "price": "0.00",
+                "stock": 10000
+            },
+            {
+                "variant_id": 31129997344870,
+                "product_id": 4371733610598,
+                "variant_name": "Unit Test Product - First",
+                "price": "10.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 31129997377638,
+                "product_id": 4371733610598,
+                "variant_name": "Unit Test Product - Second",
+                "price": "20.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 42336507860,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - Red",
+                "price": "5.10",
+                "stock": 77,
+                "quantity": 3,
+                "total": "15.30"
+            },
+            {
+                "variant_id": 155483340820,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - White",
+                "price": "5.10",
+                "stock": 97,
+                "quantity": 1,
+                "total": "5.10"
+            },
+            {
+                "variant_id": 155483406356,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - Translucent",
+                "price": "5.10",
+                "stock": 99
+            }
+        ]
+    },
+    {
+        "product_name": "Copy of Colorful Birds",
+        "variants": [
+            {
+                "variant_id": 42336694548,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Small / Red",
+                "price": "12.00",
+                "stock": 30,
+                "quantity": 18,
+                "total": "216.00"
+            },
+            {
+                "variant_id": 155461517332,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Small / Blue",
+                "price": "12.00",
+                "stock": 38,
+                "quantity": 11,
+                "total": "120.00"
+            },
+            {
+                "variant_id": 155461550100,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Medium / Red",
+                "price": "12.00",
+                "stock": 5,
+                "quantity": 3,
+                "total": "36.00"
+            },
+            {
+                "variant_id": 155461582868,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Medium / Blue",
+                "price": "12.00",
+                "stock": 42,
+                "quantity": 4,
+                "total": "48.00"
+            },
+            {
+                "variant_id": 28000476495974,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Small / Red",
+                "price": "12.00",
+                "stock": -13,
+                "quantity": 4,
+                "total": "48.00"
+            },
+            {
+                "variant_id": 28000476528742,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Small / Blue",
+                "price": "12.00",
+                "stock": 12,
+                "quantity": 6,
+                "total": "60.00"
+            },
+            {
+                "variant_id": 28000476594278,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Medium / Red",
+                "price": "12.00",
+                "stock": 8
+            },
+            {
+                "variant_id": 28000476627046,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Medium / Blue",
+                "price": "12.00",
+                "stock": 82,
+                "quantity": 1,
+                "total": "12.00"
+            },
+            {
+                "variant_id": 31462878609510,
+                "product_id": 4649679257702,
+                "variant_name": "Delete Variant - s",
+                "price": "10.00",
+                "stock": -3,
+                "quantity": 1,
+                "total": "10.00"
+            },
+            {
+                "variant_id": 993244479508,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $10.00",
+                "price": "10.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244512276,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $25.00",
+                "price": "25.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244545044,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $50.00",
+                "price": "50.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244577812,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $100.00",
+                "price": "100.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 16145072488550,
+                "product_id": 1662977474662,
+                "variant_name": "Go-To Polo Navy - Large",
+                "price": "68.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 16145072521318,
+                "product_id": 1662977474662,
+                "variant_name": "Go-To Polo Navy - X-Large",
+                "price": "68.00",
+                "stock": 96
+            },
+            {
+                "variant_id": 16145425301606,
+                "product_id": 1663055069286,
+                "variant_name": "Loop Test Widget - Large",
+                "price": "10.00",
+                "stock": 39,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 13841570627686,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - S",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 13841570660454,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - M",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 13841570693222,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - L",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 42336967188,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Loud",
+                "price": "120.00",
+                "stock": 0
+            },
+            {
+                "variant_id": 155500412948,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Quiet",
+                "price": "120.00",
+                "stock": -2
+            },
+            {
+                "variant_id": 155500445716,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Ghost",
+                "price": "120.00",
+                "stock": -1
+            },
+            {
+                "variant_id": 42336616276,
+                "product_id": 10826335700,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/raven-2136081_1920.jpg?v=1496242881",
+                "variant_name": "Secret Raven - Default Title",
+                "price": "100.00",
+                "stock": 45,
+                "quantity": 1,
+                "total": "100.00"
+            },
+            {
+                "variant_id": 42336410516,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - Small",
+                "price": "10.00",
+                "stock": 42,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 155475247124,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - X-Small",
+                "price": "10.00",
+                "stock": 43,
+                "quantity": 1,
+                "total": "10.00"
+            },
+            {
+                "variant_id": 155475279892,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - Micro",
+                "price": "10.00",
+                "stock": 48,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 27919076917350,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - s",
+                "price": "10.00",
+                "stock": 9998
+            },
+            {
+                "variant_id": 27919076950118,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - m",
+                "price": "10.00",
+                "stock": 9998
+            },
+            {
+                "variant_id": 27919076982886,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - l",
+                "price": "0.00",
+                "stock": 10000
+            },
+            {
+                "variant_id": 31129997344870,
+                "product_id": 4371733610598,
+                "variant_name": "Unit Test Product - First",
+                "price": "10.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 31129997377638,
+                "product_id": 4371733610598,
+                "variant_name": "Unit Test Product - Second",
+                "price": "20.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 42336507860,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - Red",
+                "price": "5.10",
+                "stock": 77,
+                "quantity": 3,
+                "total": "15.30"
+            },
+            {
+                "variant_id": 155483340820,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - White",
+                "price": "5.10",
+                "stock": 97,
+                "quantity": 1,
+                "total": "5.10"
+            },
+            {
+                "variant_id": 155483406356,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - Translucent",
+                "price": "5.10",
+                "stock": 99
+            }
+        ]
+    },
+    {
+        "product_name": "Delete Variant",
+        "variants": [
+            {
+                "variant_id": 42336694548,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Small / Red",
+                "price": "12.00",
+                "stock": 30,
+                "quantity": 18,
+                "total": "216.00"
+            },
+            {
+                "variant_id": 155461517332,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Small / Blue",
+                "price": "12.00",
+                "stock": 38,
+                "quantity": 11,
+                "total": "120.00"
+            },
+            {
+                "variant_id": 155461550100,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Medium / Red",
+                "price": "12.00",
+                "stock": 5,
+                "quantity": 3,
+                "total": "36.00"
+            },
+            {
+                "variant_id": 155461582868,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Medium / Blue",
+                "price": "12.00",
+                "stock": 42,
+                "quantity": 4,
+                "total": "48.00"
+            },
+            {
+                "variant_id": 28000476495974,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Small / Red",
+                "price": "12.00",
+                "stock": -13,
+                "quantity": 4,
+                "total": "48.00"
+            },
+            {
+                "variant_id": 28000476528742,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Small / Blue",
+                "price": "12.00",
+                "stock": 12,
+                "quantity": 6,
+                "total": "60.00"
+            },
+            {
+                "variant_id": 28000476594278,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Medium / Red",
+                "price": "12.00",
+                "stock": 8
+            },
+            {
+                "variant_id": 28000476627046,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Medium / Blue",
+                "price": "12.00",
+                "stock": 82,
+                "quantity": 1,
+                "total": "12.00"
+            },
+            {
+                "variant_id": 31462878609510,
+                "product_id": 4649679257702,
+                "variant_name": "Delete Variant - s",
+                "price": "10.00",
+                "stock": -3,
+                "quantity": 1,
+                "total": "10.00"
+            },
+            {
+                "variant_id": 993244479508,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $10.00",
+                "price": "10.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244512276,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $25.00",
+                "price": "25.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244545044,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $50.00",
+                "price": "50.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244577812,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $100.00",
+                "price": "100.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 16145072488550,
+                "product_id": 1662977474662,
+                "variant_name": "Go-To Polo Navy - Large",
+                "price": "68.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 16145072521318,
+                "product_id": 1662977474662,
+                "variant_name": "Go-To Polo Navy - X-Large",
+                "price": "68.00",
+                "stock": 96
+            },
+            {
+                "variant_id": 16145425301606,
+                "product_id": 1663055069286,
+                "variant_name": "Loop Test Widget - Large",
+                "price": "10.00",
+                "stock": 39,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 13841570627686,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - S",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 13841570660454,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - M",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 13841570693222,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - L",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 42336967188,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Loud",
+                "price": "120.00",
+                "stock": 0
+            },
+            {
+                "variant_id": 155500412948,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Quiet",
+                "price": "120.00",
+                "stock": -2
+            },
+            {
+                "variant_id": 155500445716,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Ghost",
+                "price": "120.00",
+                "stock": -1
+            },
+            {
+                "variant_id": 42336616276,
+                "product_id": 10826335700,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/raven-2136081_1920.jpg?v=1496242881",
+                "variant_name": "Secret Raven - Default Title",
+                "price": "100.00",
+                "stock": 45,
+                "quantity": 1,
+                "total": "100.00"
+            },
+            {
+                "variant_id": 42336410516,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - Small",
+                "price": "10.00",
+                "stock": 42,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 155475247124,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - X-Small",
+                "price": "10.00",
+                "stock": 43,
+                "quantity": 1,
+                "total": "10.00"
+            },
+            {
+                "variant_id": 155475279892,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - Micro",
+                "price": "10.00",
+                "stock": 48,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 27919076917350,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - s",
+                "price": "10.00",
+                "stock": 9998
+            },
+            {
+                "variant_id": 27919076950118,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - m",
+                "price": "10.00",
+                "stock": 9998
+            },
+            {
+                "variant_id": 27919076982886,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - l",
+                "price": "0.00",
+                "stock": 10000
+            },
+            {
+                "variant_id": 31129997344870,
+                "product_id": 4371733610598,
+                "variant_name": "Unit Test Product - First",
+                "price": "10.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 31129997377638,
+                "product_id": 4371733610598,
+                "variant_name": "Unit Test Product - Second",
+                "price": "20.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 42336507860,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - Red",
+                "price": "5.10",
+                "stock": 77,
+                "quantity": 3,
+                "total": "15.30"
+            },
+            {
+                "variant_id": 155483340820,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - White",
+                "price": "5.10",
+                "stock": 97,
+                "quantity": 1,
+                "total": "5.10"
+            },
+            {
+                "variant_id": 155483406356,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - Translucent",
+                "price": "5.10",
+                "stock": 99
+            }
+        ]
+    },
+    {
+        "product_name": "Gift Card",
+        "variants": [
+            {
+                "variant_id": 42336694548,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Small / Red",
+                "price": "12.00",
+                "stock": 30,
+                "quantity": 18,
+                "total": "216.00"
+            },
+            {
+                "variant_id": 155461517332,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Small / Blue",
+                "price": "12.00",
+                "stock": 38,
+                "quantity": 11,
+                "total": "120.00"
+            },
+            {
+                "variant_id": 155461550100,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Medium / Red",
+                "price": "12.00",
+                "stock": 5,
+                "quantity": 3,
+                "total": "36.00"
+            },
+            {
+                "variant_id": 155461582868,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Medium / Blue",
+                "price": "12.00",
+                "stock": 42,
+                "quantity": 4,
+                "total": "48.00"
+            },
+            {
+                "variant_id": 28000476495974,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Small / Red",
+                "price": "12.00",
+                "stock": -13,
+                "quantity": 4,
+                "total": "48.00"
+            },
+            {
+                "variant_id": 28000476528742,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Small / Blue",
+                "price": "12.00",
+                "stock": 12,
+                "quantity": 6,
+                "total": "60.00"
+            },
+            {
+                "variant_id": 28000476594278,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Medium / Red",
+                "price": "12.00",
+                "stock": 8
+            },
+            {
+                "variant_id": 28000476627046,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Medium / Blue",
+                "price": "12.00",
+                "stock": 82,
+                "quantity": 1,
+                "total": "12.00"
+            },
+            {
+                "variant_id": 31462878609510,
+                "product_id": 4649679257702,
+                "variant_name": "Delete Variant - s",
+                "price": "10.00",
+                "stock": -3,
+                "quantity": 1,
+                "total": "10.00"
+            },
+            {
+                "variant_id": 993244479508,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $10.00",
+                "price": "10.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244512276,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $25.00",
+                "price": "25.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244545044,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $50.00",
+                "price": "50.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244577812,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $100.00",
+                "price": "100.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 16145072488550,
+                "product_id": 1662977474662,
+                "variant_name": "Go-To Polo Navy - Large",
+                "price": "68.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 16145072521318,
+                "product_id": 1662977474662,
+                "variant_name": "Go-To Polo Navy - X-Large",
+                "price": "68.00",
+                "stock": 96
+            },
+            {
+                "variant_id": 16145425301606,
+                "product_id": 1663055069286,
+                "variant_name": "Loop Test Widget - Large",
+                "price": "10.00",
+                "stock": 39,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 13841570627686,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - S",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 13841570660454,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - M",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 13841570693222,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - L",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 42336967188,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Loud",
+                "price": "120.00",
+                "stock": 0
+            },
+            {
+                "variant_id": 155500412948,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Quiet",
+                "price": "120.00",
+                "stock": -2
+            },
+            {
+                "variant_id": 155500445716,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Ghost",
+                "price": "120.00",
+                "stock": -1
+            },
+            {
+                "variant_id": 42336616276,
+                "product_id": 10826335700,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/raven-2136081_1920.jpg?v=1496242881",
+                "variant_name": "Secret Raven - Default Title",
+                "price": "100.00",
+                "stock": 45,
+                "quantity": 1,
+                "total": "100.00"
+            },
+            {
+                "variant_id": 42336410516,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - Small",
+                "price": "10.00",
+                "stock": 42,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 155475247124,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - X-Small",
+                "price": "10.00",
+                "stock": 43,
+                "quantity": 1,
+                "total": "10.00"
+            },
+            {
+                "variant_id": 155475279892,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - Micro",
+                "price": "10.00",
+                "stock": 48,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 27919076917350,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - s",
+                "price": "10.00",
+                "stock": 9998
+            },
+            {
+                "variant_id": 27919076950118,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - m",
+                "price": "10.00",
+                "stock": 9998
+            },
+            {
+                "variant_id": 27919076982886,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - l",
+                "price": "0.00",
+                "stock": 10000
+            },
+            {
+                "variant_id": 31129997344870,
+                "product_id": 4371733610598,
+                "variant_name": "Unit Test Product - First",
+                "price": "10.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 31129997377638,
+                "product_id": 4371733610598,
+                "variant_name": "Unit Test Product - Second",
+                "price": "20.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 42336507860,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - Red",
+                "price": "5.10",
+                "stock": 77,
+                "quantity": 3,
+                "total": "15.30"
+            },
+            {
+                "variant_id": 155483340820,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - White",
+                "price": "5.10",
+                "stock": 97,
+                "quantity": 1,
+                "total": "5.10"
+            },
+            {
+                "variant_id": 155483406356,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - Translucent",
+                "price": "5.10",
+                "stock": 99
+            }
+        ]
+    },
+    {
+        "product_name": "Go-To Polo Navy",
+        "variants": [
+            {
+                "variant_id": 42336694548,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Small / Red",
+                "price": "12.00",
+                "stock": 30,
+                "quantity": 18,
+                "total": "216.00"
+            },
+            {
+                "variant_id": 155461517332,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Small / Blue",
+                "price": "12.00",
+                "stock": 38,
+                "quantity": 11,
+                "total": "120.00"
+            },
+            {
+                "variant_id": 155461550100,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Medium / Red",
+                "price": "12.00",
+                "stock": 5,
+                "quantity": 3,
+                "total": "36.00"
+            },
+            {
+                "variant_id": 155461582868,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Medium / Blue",
+                "price": "12.00",
+                "stock": 42,
+                "quantity": 4,
+                "total": "48.00"
+            },
+            {
+                "variant_id": 28000476495974,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Small / Red",
+                "price": "12.00",
+                "stock": -13,
+                "quantity": 4,
+                "total": "48.00"
+            },
+            {
+                "variant_id": 28000476528742,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Small / Blue",
+                "price": "12.00",
+                "stock": 12,
+                "quantity": 6,
+                "total": "60.00"
+            },
+            {
+                "variant_id": 28000476594278,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Medium / Red",
+                "price": "12.00",
+                "stock": 8
+            },
+            {
+                "variant_id": 28000476627046,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Medium / Blue",
+                "price": "12.00",
+                "stock": 82,
+                "quantity": 1,
+                "total": "12.00"
+            },
+            {
+                "variant_id": 31462878609510,
+                "product_id": 4649679257702,
+                "variant_name": "Delete Variant - s",
+                "price": "10.00",
+                "stock": -3,
+                "quantity": 1,
+                "total": "10.00"
+            },
+            {
+                "variant_id": 993244479508,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $10.00",
+                "price": "10.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244512276,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $25.00",
+                "price": "25.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244545044,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $50.00",
+                "price": "50.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244577812,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $100.00",
+                "price": "100.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 16145072488550,
+                "product_id": 1662977474662,
+                "variant_name": "Go-To Polo Navy - Large",
+                "price": "68.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 16145072521318,
+                "product_id": 1662977474662,
+                "variant_name": "Go-To Polo Navy - X-Large",
+                "price": "68.00",
+                "stock": 96
+            },
+            {
+                "variant_id": 16145425301606,
+                "product_id": 1663055069286,
+                "variant_name": "Loop Test Widget - Large",
+                "price": "10.00",
+                "stock": 39,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 13841570627686,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - S",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 13841570660454,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - M",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 13841570693222,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - L",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 42336967188,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Loud",
+                "price": "120.00",
+                "stock": 0
+            },
+            {
+                "variant_id": 155500412948,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Quiet",
+                "price": "120.00",
+                "stock": -2
+            },
+            {
+                "variant_id": 155500445716,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Ghost",
+                "price": "120.00",
+                "stock": -1
+            },
+            {
+                "variant_id": 42336616276,
+                "product_id": 10826335700,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/raven-2136081_1920.jpg?v=1496242881",
+                "variant_name": "Secret Raven - Default Title",
+                "price": "100.00",
+                "stock": 45,
+                "quantity": 1,
+                "total": "100.00"
+            },
+            {
+                "variant_id": 42336410516,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - Small",
+                "price": "10.00",
+                "stock": 42,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 155475247124,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - X-Small",
+                "price": "10.00",
+                "stock": 43,
+                "quantity": 1,
+                "total": "10.00"
+            },
+            {
+                "variant_id": 155475279892,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - Micro",
+                "price": "10.00",
+                "stock": 48,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 27919076917350,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - s",
+                "price": "10.00",
+                "stock": 9998
+            },
+            {
+                "variant_id": 27919076950118,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - m",
+                "price": "10.00",
+                "stock": 9998
+            },
+            {
+                "variant_id": 27919076982886,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - l",
+                "price": "0.00",
+                "stock": 10000
+            },
+            {
+                "variant_id": 31129997344870,
+                "product_id": 4371733610598,
+                "variant_name": "Unit Test Product - First",
+                "price": "10.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 31129997377638,
+                "product_id": 4371733610598,
+                "variant_name": "Unit Test Product - Second",
+                "price": "20.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 42336507860,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - Red",
+                "price": "5.10",
+                "stock": 77,
+                "quantity": 3,
+                "total": "15.30"
+            },
+            {
+                "variant_id": 155483340820,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - White",
+                "price": "5.10",
+                "stock": 97,
+                "quantity": 1,
+                "total": "5.10"
+            },
+            {
+                "variant_id": 155483406356,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - Translucent",
+                "price": "5.10",
+                "stock": 99
+            }
+        ]
+    },
+    {
+        "product_name": "Loop Test Widget",
+        "variants": [
+            {
+                "variant_id": 42336694548,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Small / Red",
+                "price": "12.00",
+                "stock": 30,
+                "quantity": 18,
+                "total": "216.00"
+            },
+            {
+                "variant_id": 155461517332,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Small / Blue",
+                "price": "12.00",
+                "stock": 38,
+                "quantity": 11,
+                "total": "120.00"
+            },
+            {
+                "variant_id": 155461550100,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Medium / Red",
+                "price": "12.00",
+                "stock": 5,
+                "quantity": 3,
+                "total": "36.00"
+            },
+            {
+                "variant_id": 155461582868,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Medium / Blue",
+                "price": "12.00",
+                "stock": 42,
+                "quantity": 4,
+                "total": "48.00"
+            },
+            {
+                "variant_id": 28000476495974,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Small / Red",
+                "price": "12.00",
+                "stock": -13,
+                "quantity": 4,
+                "total": "48.00"
+            },
+            {
+                "variant_id": 28000476528742,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Small / Blue",
+                "price": "12.00",
+                "stock": 12,
+                "quantity": 6,
+                "total": "60.00"
+            },
+            {
+                "variant_id": 28000476594278,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Medium / Red",
+                "price": "12.00",
+                "stock": 8
+            },
+            {
+                "variant_id": 28000476627046,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Medium / Blue",
+                "price": "12.00",
+                "stock": 82,
+                "quantity": 1,
+                "total": "12.00"
+            },
+            {
+                "variant_id": 31462878609510,
+                "product_id": 4649679257702,
+                "variant_name": "Delete Variant - s",
+                "price": "10.00",
+                "stock": -3,
+                "quantity": 1,
+                "total": "10.00"
+            },
+            {
+                "variant_id": 993244479508,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $10.00",
+                "price": "10.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244512276,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $25.00",
+                "price": "25.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244545044,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $50.00",
+                "price": "50.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244577812,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $100.00",
+                "price": "100.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 16145072488550,
+                "product_id": 1662977474662,
+                "variant_name": "Go-To Polo Navy - Large",
+                "price": "68.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 16145072521318,
+                "product_id": 1662977474662,
+                "variant_name": "Go-To Polo Navy - X-Large",
+                "price": "68.00",
+                "stock": 96
+            },
+            {
+                "variant_id": 16145425301606,
+                "product_id": 1663055069286,
+                "variant_name": "Loop Test Widget - Large",
+                "price": "10.00",
+                "stock": 39,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 13841570627686,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - S",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 13841570660454,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - M",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 13841570693222,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - L",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 42336967188,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Loud",
+                "price": "120.00",
+                "stock": 0
+            },
+            {
+                "variant_id": 155500412948,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Quiet",
+                "price": "120.00",
+                "stock": -2
+            },
+            {
+                "variant_id": 155500445716,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Ghost",
+                "price": "120.00",
+                "stock": -1
+            },
+            {
+                "variant_id": 42336616276,
+                "product_id": 10826335700,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/raven-2136081_1920.jpg?v=1496242881",
+                "variant_name": "Secret Raven - Default Title",
+                "price": "100.00",
+                "stock": 45,
+                "quantity": 1,
+                "total": "100.00"
+            },
+            {
+                "variant_id": 42336410516,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - Small",
+                "price": "10.00",
+                "stock": 42,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 155475247124,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - X-Small",
+                "price": "10.00",
+                "stock": 43,
+                "quantity": 1,
+                "total": "10.00"
+            },
+            {
+                "variant_id": 155475279892,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - Micro",
+                "price": "10.00",
+                "stock": 48,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 27919076917350,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - s",
+                "price": "10.00",
+                "stock": 9998
+            },
+            {
+                "variant_id": 27919076950118,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - m",
+                "price": "10.00",
+                "stock": 9998
+            },
+            {
+                "variant_id": 27919076982886,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - l",
+                "price": "0.00",
+                "stock": 10000
+            },
+            {
+                "variant_id": 31129997344870,
+                "product_id": 4371733610598,
+                "variant_name": "Unit Test Product - First",
+                "price": "10.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 31129997377638,
+                "product_id": 4371733610598,
+                "variant_name": "Unit Test Product - Second",
+                "price": "20.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 42336507860,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - Red",
+                "price": "5.10",
+                "stock": 77,
+                "quantity": 3,
+                "total": "15.30"
+            },
+            {
+                "variant_id": 155483340820,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - White",
+                "price": "5.10",
+                "stock": 97,
+                "quantity": 1,
+                "total": "5.10"
+            },
+            {
+                "variant_id": 155483406356,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - Translucent",
+                "price": "5.10",
+                "stock": 99
+            }
+        ]
+    },
+    {
+        "product_name": "New Product",
+        "variants": [
+            {
+                "variant_id": 42336694548,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Small / Red",
+                "price": "12.00",
+                "stock": 30,
+                "quantity": 18,
+                "total": "216.00"
+            },
+            {
+                "variant_id": 155461517332,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Small / Blue",
+                "price": "12.00",
+                "stock": 38,
+                "quantity": 11,
+                "total": "120.00"
+            },
+            {
+                "variant_id": 155461550100,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Medium / Red",
+                "price": "12.00",
+                "stock": 5,
+                "quantity": 3,
+                "total": "36.00"
+            },
+            {
+                "variant_id": 155461582868,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Medium / Blue",
+                "price": "12.00",
+                "stock": 42,
+                "quantity": 4,
+                "total": "48.00"
+            },
+            {
+                "variant_id": 28000476495974,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Small / Red",
+                "price": "12.00",
+                "stock": -13,
+                "quantity": 4,
+                "total": "48.00"
+            },
+            {
+                "variant_id": 28000476528742,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Small / Blue",
+                "price": "12.00",
+                "stock": 12,
+                "quantity": 6,
+                "total": "60.00"
+            },
+            {
+                "variant_id": 28000476594278,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Medium / Red",
+                "price": "12.00",
+                "stock": 8
+            },
+            {
+                "variant_id": 28000476627046,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Medium / Blue",
+                "price": "12.00",
+                "stock": 82,
+                "quantity": 1,
+                "total": "12.00"
+            },
+            {
+                "variant_id": 31462878609510,
+                "product_id": 4649679257702,
+                "variant_name": "Delete Variant - s",
+                "price": "10.00",
+                "stock": -3,
+                "quantity": 1,
+                "total": "10.00"
+            },
+            {
+                "variant_id": 993244479508,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $10.00",
+                "price": "10.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244512276,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $25.00",
+                "price": "25.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244545044,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $50.00",
+                "price": "50.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244577812,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $100.00",
+                "price": "100.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 16145072488550,
+                "product_id": 1662977474662,
+                "variant_name": "Go-To Polo Navy - Large",
+                "price": "68.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 16145072521318,
+                "product_id": 1662977474662,
+                "variant_name": "Go-To Polo Navy - X-Large",
+                "price": "68.00",
+                "stock": 96
+            },
+            {
+                "variant_id": 16145425301606,
+                "product_id": 1663055069286,
+                "variant_name": "Loop Test Widget - Large",
+                "price": "10.00",
+                "stock": 39,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 13841570627686,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - S",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 13841570660454,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - M",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 13841570693222,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - L",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 42336967188,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Loud",
+                "price": "120.00",
+                "stock": 0
+            },
+            {
+                "variant_id": 155500412948,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Quiet",
+                "price": "120.00",
+                "stock": -2
+            },
+            {
+                "variant_id": 155500445716,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Ghost",
+                "price": "120.00",
+                "stock": -1
+            },
+            {
+                "variant_id": 42336616276,
+                "product_id": 10826335700,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/raven-2136081_1920.jpg?v=1496242881",
+                "variant_name": "Secret Raven - Default Title",
+                "price": "100.00",
+                "stock": 45,
+                "quantity": 1,
+                "total": "100.00"
+            },
+            {
+                "variant_id": 42336410516,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - Small",
+                "price": "10.00",
+                "stock": 42,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 155475247124,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - X-Small",
+                "price": "10.00",
+                "stock": 43,
+                "quantity": 1,
+                "total": "10.00"
+            },
+            {
+                "variant_id": 155475279892,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - Micro",
+                "price": "10.00",
+                "stock": 48,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 27919076917350,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - s",
+                "price": "10.00",
+                "stock": 9998
+            },
+            {
+                "variant_id": 27919076950118,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - m",
+                "price": "10.00",
+                "stock": 9998
+            },
+            {
+                "variant_id": 27919076982886,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - l",
+                "price": "0.00",
+                "stock": 10000
+            },
+            {
+                "variant_id": 31129997344870,
+                "product_id": 4371733610598,
+                "variant_name": "Unit Test Product - First",
+                "price": "10.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 31129997377638,
+                "product_id": 4371733610598,
+                "variant_name": "Unit Test Product - Second",
+                "price": "20.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 42336507860,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - Red",
+                "price": "5.10",
+                "stock": 77,
+                "quantity": 3,
+                "total": "15.30"
+            },
+            {
+                "variant_id": 155483340820,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - White",
+                "price": "5.10",
+                "stock": 97,
+                "quantity": 1,
+                "total": "5.10"
+            },
+            {
+                "variant_id": 155483406356,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - Translucent",
+                "price": "5.10",
+                "stock": 99
+            }
+        ]
+    },
+    {
+        "product_name": "Pete and His Brothers Repete",
+        "variants": [
+            {
+                "variant_id": 42336694548,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Small / Red",
+                "price": "12.00",
+                "stock": 30,
+                "quantity": 18,
+                "total": "216.00"
+            },
+            {
+                "variant_id": 155461517332,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Small / Blue",
+                "price": "12.00",
+                "stock": 38,
+                "quantity": 11,
+                "total": "120.00"
+            },
+            {
+                "variant_id": 155461550100,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Medium / Red",
+                "price": "12.00",
+                "stock": 5,
+                "quantity": 3,
+                "total": "36.00"
+            },
+            {
+                "variant_id": 155461582868,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Medium / Blue",
+                "price": "12.00",
+                "stock": 42,
+                "quantity": 4,
+                "total": "48.00"
+            },
+            {
+                "variant_id": 28000476495974,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Small / Red",
+                "price": "12.00",
+                "stock": -13,
+                "quantity": 4,
+                "total": "48.00"
+            },
+            {
+                "variant_id": 28000476528742,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Small / Blue",
+                "price": "12.00",
+                "stock": 12,
+                "quantity": 6,
+                "total": "60.00"
+            },
+            {
+                "variant_id": 28000476594278,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Medium / Red",
+                "price": "12.00",
+                "stock": 8
+            },
+            {
+                "variant_id": 28000476627046,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Medium / Blue",
+                "price": "12.00",
+                "stock": 82,
+                "quantity": 1,
+                "total": "12.00"
+            },
+            {
+                "variant_id": 31462878609510,
+                "product_id": 4649679257702,
+                "variant_name": "Delete Variant - s",
+                "price": "10.00",
+                "stock": -3,
+                "quantity": 1,
+                "total": "10.00"
+            },
+            {
+                "variant_id": 993244479508,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $10.00",
+                "price": "10.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244512276,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $25.00",
+                "price": "25.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244545044,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $50.00",
+                "price": "50.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244577812,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $100.00",
+                "price": "100.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 16145072488550,
+                "product_id": 1662977474662,
+                "variant_name": "Go-To Polo Navy - Large",
+                "price": "68.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 16145072521318,
+                "product_id": 1662977474662,
+                "variant_name": "Go-To Polo Navy - X-Large",
+                "price": "68.00",
+                "stock": 96
+            },
+            {
+                "variant_id": 16145425301606,
+                "product_id": 1663055069286,
+                "variant_name": "Loop Test Widget - Large",
+                "price": "10.00",
+                "stock": 39,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 13841570627686,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - S",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 13841570660454,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - M",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 13841570693222,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - L",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 42336967188,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Loud",
+                "price": "120.00",
+                "stock": 0
+            },
+            {
+                "variant_id": 155500412948,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Quiet",
+                "price": "120.00",
+                "stock": -2
+            },
+            {
+                "variant_id": 155500445716,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Ghost",
+                "price": "120.00",
+                "stock": -1
+            },
+            {
+                "variant_id": 42336616276,
+                "product_id": 10826335700,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/raven-2136081_1920.jpg?v=1496242881",
+                "variant_name": "Secret Raven - Default Title",
+                "price": "100.00",
+                "stock": 45,
+                "quantity": 1,
+                "total": "100.00"
+            },
+            {
+                "variant_id": 42336410516,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - Small",
+                "price": "10.00",
+                "stock": 42,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 155475247124,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - X-Small",
+                "price": "10.00",
+                "stock": 43,
+                "quantity": 1,
+                "total": "10.00"
+            },
+            {
+                "variant_id": 155475279892,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - Micro",
+                "price": "10.00",
+                "stock": 48,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 27919076917350,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - s",
+                "price": "10.00",
+                "stock": 9998
+            },
+            {
+                "variant_id": 27919076950118,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - m",
+                "price": "10.00",
+                "stock": 9998
+            },
+            {
+                "variant_id": 27919076982886,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - l",
+                "price": "0.00",
+                "stock": 10000
+            },
+            {
+                "variant_id": 31129997344870,
+                "product_id": 4371733610598,
+                "variant_name": "Unit Test Product - First",
+                "price": "10.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 31129997377638,
+                "product_id": 4371733610598,
+                "variant_name": "Unit Test Product - Second",
+                "price": "20.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 42336507860,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - Red",
+                "price": "5.10",
+                "stock": 77,
+                "quantity": 3,
+                "total": "15.30"
+            },
+            {
+                "variant_id": 155483340820,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - White",
+                "price": "5.10",
+                "stock": 97,
+                "quantity": 1,
+                "total": "5.10"
+            },
+            {
+                "variant_id": 155483406356,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - Translucent",
+                "price": "5.10",
+                "stock": 99
+            }
+        ]
+    },
+    {
+        "product_name": "Secret Raven",
+        "variants": [
+            {
+                "variant_id": 42336694548,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Small / Red",
+                "price": "12.00",
+                "stock": 30,
+                "quantity": 18,
+                "total": "216.00"
+            },
+            {
+                "variant_id": 155461517332,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Small / Blue",
+                "price": "12.00",
+                "stock": 38,
+                "quantity": 11,
+                "total": "120.00"
+            },
+            {
+                "variant_id": 155461550100,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Medium / Red",
+                "price": "12.00",
+                "stock": 5,
+                "quantity": 3,
+                "total": "36.00"
+            },
+            {
+                "variant_id": 155461582868,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Medium / Blue",
+                "price": "12.00",
+                "stock": 42,
+                "quantity": 4,
+                "total": "48.00"
+            },
+            {
+                "variant_id": 28000476495974,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Small / Red",
+                "price": "12.00",
+                "stock": -13,
+                "quantity": 4,
+                "total": "48.00"
+            },
+            {
+                "variant_id": 28000476528742,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Small / Blue",
+                "price": "12.00",
+                "stock": 12,
+                "quantity": 6,
+                "total": "60.00"
+            },
+            {
+                "variant_id": 28000476594278,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Medium / Red",
+                "price": "12.00",
+                "stock": 8
+            },
+            {
+                "variant_id": 28000476627046,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Medium / Blue",
+                "price": "12.00",
+                "stock": 82,
+                "quantity": 1,
+                "total": "12.00"
+            },
+            {
+                "variant_id": 31462878609510,
+                "product_id": 4649679257702,
+                "variant_name": "Delete Variant - s",
+                "price": "10.00",
+                "stock": -3,
+                "quantity": 1,
+                "total": "10.00"
+            },
+            {
+                "variant_id": 993244479508,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $10.00",
+                "price": "10.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244512276,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $25.00",
+                "price": "25.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244545044,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $50.00",
+                "price": "50.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244577812,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $100.00",
+                "price": "100.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 16145072488550,
+                "product_id": 1662977474662,
+                "variant_name": "Go-To Polo Navy - Large",
+                "price": "68.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 16145072521318,
+                "product_id": 1662977474662,
+                "variant_name": "Go-To Polo Navy - X-Large",
+                "price": "68.00",
+                "stock": 96
+            },
+            {
+                "variant_id": 16145425301606,
+                "product_id": 1663055069286,
+                "variant_name": "Loop Test Widget - Large",
+                "price": "10.00",
+                "stock": 39,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 13841570627686,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - S",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 13841570660454,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - M",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 13841570693222,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - L",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 42336967188,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Loud",
+                "price": "120.00",
+                "stock": 0
+            },
+            {
+                "variant_id": 155500412948,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Quiet",
+                "price": "120.00",
+                "stock": -2
+            },
+            {
+                "variant_id": 155500445716,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Ghost",
+                "price": "120.00",
+                "stock": -1
+            },
+            {
+                "variant_id": 42336616276,
+                "product_id": 10826335700,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/raven-2136081_1920.jpg?v=1496242881",
+                "variant_name": "Secret Raven - Default Title",
+                "price": "100.00",
+                "stock": 45,
+                "quantity": 1,
+                "total": "100.00"
+            },
+            {
+                "variant_id": 42336410516,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - Small",
+                "price": "10.00",
+                "stock": 42,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 155475247124,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - X-Small",
+                "price": "10.00",
+                "stock": 43,
+                "quantity": 1,
+                "total": "10.00"
+            },
+            {
+                "variant_id": 155475279892,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - Micro",
+                "price": "10.00",
+                "stock": 48,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 27919076917350,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - s",
+                "price": "10.00",
+                "stock": 9998
+            },
+            {
+                "variant_id": 27919076950118,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - m",
+                "price": "10.00",
+                "stock": 9998
+            },
+            {
+                "variant_id": 27919076982886,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - l",
+                "price": "0.00",
+                "stock": 10000
+            },
+            {
+                "variant_id": 31129997344870,
+                "product_id": 4371733610598,
+                "variant_name": "Unit Test Product - First",
+                "price": "10.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 31129997377638,
+                "product_id": 4371733610598,
+                "variant_name": "Unit Test Product - Second",
+                "price": "20.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 42336507860,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - Red",
+                "price": "5.10",
+                "stock": 77,
+                "quantity": 3,
+                "total": "15.30"
+            },
+            {
+                "variant_id": 155483340820,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - White",
+                "price": "5.10",
+                "stock": 97,
+                "quantity": 1,
+                "total": "5.10"
+            },
+            {
+                "variant_id": 155483406356,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - Translucent",
+                "price": "5.10",
+                "stock": 99
+            }
+        ]
+    },
+    {
+        "product_name": "Speedy",
+        "variants": [
+            {
+                "variant_id": 42336694548,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Small / Red",
+                "price": "12.00",
+                "stock": 30,
+                "quantity": 18,
+                "total": "216.00"
+            },
+            {
+                "variant_id": 155461517332,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Small / Blue",
+                "price": "12.00",
+                "stock": 38,
+                "quantity": 11,
+                "total": "120.00"
+            },
+            {
+                "variant_id": 155461550100,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Medium / Red",
+                "price": "12.00",
+                "stock": 5,
+                "quantity": 3,
+                "total": "36.00"
+            },
+            {
+                "variant_id": 155461582868,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Medium / Blue",
+                "price": "12.00",
+                "stock": 42,
+                "quantity": 4,
+                "total": "48.00"
+            },
+            {
+                "variant_id": 28000476495974,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Small / Red",
+                "price": "12.00",
+                "stock": -13,
+                "quantity": 4,
+                "total": "48.00"
+            },
+            {
+                "variant_id": 28000476528742,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Small / Blue",
+                "price": "12.00",
+                "stock": 12,
+                "quantity": 6,
+                "total": "60.00"
+            },
+            {
+                "variant_id": 28000476594278,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Medium / Red",
+                "price": "12.00",
+                "stock": 8
+            },
+            {
+                "variant_id": 28000476627046,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Medium / Blue",
+                "price": "12.00",
+                "stock": 82,
+                "quantity": 1,
+                "total": "12.00"
+            },
+            {
+                "variant_id": 31462878609510,
+                "product_id": 4649679257702,
+                "variant_name": "Delete Variant - s",
+                "price": "10.00",
+                "stock": -3,
+                "quantity": 1,
+                "total": "10.00"
+            },
+            {
+                "variant_id": 993244479508,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $10.00",
+                "price": "10.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244512276,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $25.00",
+                "price": "25.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244545044,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $50.00",
+                "price": "50.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244577812,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $100.00",
+                "price": "100.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 16145072488550,
+                "product_id": 1662977474662,
+                "variant_name": "Go-To Polo Navy - Large",
+                "price": "68.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 16145072521318,
+                "product_id": 1662977474662,
+                "variant_name": "Go-To Polo Navy - X-Large",
+                "price": "68.00",
+                "stock": 96
+            },
+            {
+                "variant_id": 16145425301606,
+                "product_id": 1663055069286,
+                "variant_name": "Loop Test Widget - Large",
+                "price": "10.00",
+                "stock": 39,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 13841570627686,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - S",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 13841570660454,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - M",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 13841570693222,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - L",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 42336967188,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Loud",
+                "price": "120.00",
+                "stock": 0
+            },
+            {
+                "variant_id": 155500412948,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Quiet",
+                "price": "120.00",
+                "stock": -2
+            },
+            {
+                "variant_id": 155500445716,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Ghost",
+                "price": "120.00",
+                "stock": -1
+            },
+            {
+                "variant_id": 42336616276,
+                "product_id": 10826335700,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/raven-2136081_1920.jpg?v=1496242881",
+                "variant_name": "Secret Raven - Default Title",
+                "price": "100.00",
+                "stock": 45,
+                "quantity": 1,
+                "total": "100.00"
+            },
+            {
+                "variant_id": 42336410516,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - Small",
+                "price": "10.00",
+                "stock": 42,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 155475247124,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - X-Small",
+                "price": "10.00",
+                "stock": 43,
+                "quantity": 1,
+                "total": "10.00"
+            },
+            {
+                "variant_id": 155475279892,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - Micro",
+                "price": "10.00",
+                "stock": 48,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 27919076917350,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - s",
+                "price": "10.00",
+                "stock": 9998
+            },
+            {
+                "variant_id": 27919076950118,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - m",
+                "price": "10.00",
+                "stock": 9998
+            },
+            {
+                "variant_id": 27919076982886,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - l",
+                "price": "0.00",
+                "stock": 10000
+            },
+            {
+                "variant_id": 31129997344870,
+                "product_id": 4371733610598,
+                "variant_name": "Unit Test Product - First",
+                "price": "10.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 31129997377638,
+                "product_id": 4371733610598,
+                "variant_name": "Unit Test Product - Second",
+                "price": "20.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 42336507860,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - Red",
+                "price": "5.10",
+                "stock": 77,
+                "quantity": 3,
+                "total": "15.30"
+            },
+            {
+                "variant_id": 155483340820,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - White",
+                "price": "5.10",
+                "stock": 97,
+                "quantity": 1,
+                "total": "5.10"
+            },
+            {
+                "variant_id": 155483406356,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - Translucent",
+                "price": "5.10",
+                "stock": 99
+            }
+        ]
+    },
+    {
+        "product_name": "The Wild Birds",
+        "variants": [
+            {
+                "variant_id": 42336694548,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Small / Red",
+                "price": "12.00",
+                "stock": 30,
+                "quantity": 18,
+                "total": "216.00"
+            },
+            {
+                "variant_id": 155461517332,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Small / Blue",
+                "price": "12.00",
+                "stock": 38,
+                "quantity": 11,
+                "total": "120.00"
+            },
+            {
+                "variant_id": 155461550100,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Medium / Red",
+                "price": "12.00",
+                "stock": 5,
+                "quantity": 3,
+                "total": "36.00"
+            },
+            {
+                "variant_id": 155461582868,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Medium / Blue",
+                "price": "12.00",
+                "stock": 42,
+                "quantity": 4,
+                "total": "48.00"
+            },
+            {
+                "variant_id": 28000476495974,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Small / Red",
+                "price": "12.00",
+                "stock": -13,
+                "quantity": 4,
+                "total": "48.00"
+            },
+            {
+                "variant_id": 28000476528742,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Small / Blue",
+                "price": "12.00",
+                "stock": 12,
+                "quantity": 6,
+                "total": "60.00"
+            },
+            {
+                "variant_id": 28000476594278,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Medium / Red",
+                "price": "12.00",
+                "stock": 8
+            },
+            {
+                "variant_id": 28000476627046,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Medium / Blue",
+                "price": "12.00",
+                "stock": 82,
+                "quantity": 1,
+                "total": "12.00"
+            },
+            {
+                "variant_id": 31462878609510,
+                "product_id": 4649679257702,
+                "variant_name": "Delete Variant - s",
+                "price": "10.00",
+                "stock": -3,
+                "quantity": 1,
+                "total": "10.00"
+            },
+            {
+                "variant_id": 993244479508,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $10.00",
+                "price": "10.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244512276,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $25.00",
+                "price": "25.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244545044,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $50.00",
+                "price": "50.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244577812,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $100.00",
+                "price": "100.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 16145072488550,
+                "product_id": 1662977474662,
+                "variant_name": "Go-To Polo Navy - Large",
+                "price": "68.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 16145072521318,
+                "product_id": 1662977474662,
+                "variant_name": "Go-To Polo Navy - X-Large",
+                "price": "68.00",
+                "stock": 96
+            },
+            {
+                "variant_id": 16145425301606,
+                "product_id": 1663055069286,
+                "variant_name": "Loop Test Widget - Large",
+                "price": "10.00",
+                "stock": 39,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 13841570627686,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - S",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 13841570660454,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - M",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 13841570693222,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - L",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 42336967188,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Loud",
+                "price": "120.00",
+                "stock": 0
+            },
+            {
+                "variant_id": 155500412948,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Quiet",
+                "price": "120.00",
+                "stock": -2
+            },
+            {
+                "variant_id": 155500445716,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Ghost",
+                "price": "120.00",
+                "stock": -1
+            },
+            {
+                "variant_id": 42336616276,
+                "product_id": 10826335700,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/raven-2136081_1920.jpg?v=1496242881",
+                "variant_name": "Secret Raven - Default Title",
+                "price": "100.00",
+                "stock": 45,
+                "quantity": 1,
+                "total": "100.00"
+            },
+            {
+                "variant_id": 42336410516,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - Small",
+                "price": "10.00",
+                "stock": 42,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 155475247124,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - X-Small",
+                "price": "10.00",
+                "stock": 43,
+                "quantity": 1,
+                "total": "10.00"
+            },
+            {
+                "variant_id": 155475279892,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - Micro",
+                "price": "10.00",
+                "stock": 48,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 27919076917350,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - s",
+                "price": "10.00",
+                "stock": 9998
+            },
+            {
+                "variant_id": 27919076950118,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - m",
+                "price": "10.00",
+                "stock": 9998
+            },
+            {
+                "variant_id": 27919076982886,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - l",
+                "price": "0.00",
+                "stock": 10000
+            },
+            {
+                "variant_id": 31129997344870,
+                "product_id": 4371733610598,
+                "variant_name": "Unit Test Product - First",
+                "price": "10.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 31129997377638,
+                "product_id": 4371733610598,
+                "variant_name": "Unit Test Product - Second",
+                "price": "20.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 42336507860,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - Red",
+                "price": "5.10",
+                "stock": 77,
+                "quantity": 3,
+                "total": "15.30"
+            },
+            {
+                "variant_id": 155483340820,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - White",
+                "price": "5.10",
+                "stock": 97,
+                "quantity": 1,
+                "total": "5.10"
+            },
+            {
+                "variant_id": 155483406356,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - Translucent",
+                "price": "5.10",
+                "stock": 99
+            }
+        ]
+    },
+    {
+        "product_name": "Unit Test Product",
+        "variants": [
+            {
+                "variant_id": 42336694548,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Small / Red",
+                "price": "12.00",
+                "stock": 30,
+                "quantity": 18,
+                "total": "216.00"
+            },
+            {
+                "variant_id": 155461517332,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Small / Blue",
+                "price": "12.00",
+                "stock": 38,
+                "quantity": 11,
+                "total": "120.00"
+            },
+            {
+                "variant_id": 155461550100,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Medium / Red",
+                "price": "12.00",
+                "stock": 5,
+                "quantity": 3,
+                "total": "36.00"
+            },
+            {
+                "variant_id": 155461582868,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Medium / Blue",
+                "price": "12.00",
+                "stock": 42,
+                "quantity": 4,
+                "total": "48.00"
+            },
+            {
+                "variant_id": 28000476495974,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Small / Red",
+                "price": "12.00",
+                "stock": -13,
+                "quantity": 4,
+                "total": "48.00"
+            },
+            {
+                "variant_id": 28000476528742,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Small / Blue",
+                "price": "12.00",
+                "stock": 12,
+                "quantity": 6,
+                "total": "60.00"
+            },
+            {
+                "variant_id": 28000476594278,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Medium / Red",
+                "price": "12.00",
+                "stock": 8
+            },
+            {
+                "variant_id": 28000476627046,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Medium / Blue",
+                "price": "12.00",
+                "stock": 82,
+                "quantity": 1,
+                "total": "12.00"
+            },
+            {
+                "variant_id": 31462878609510,
+                "product_id": 4649679257702,
+                "variant_name": "Delete Variant - s",
+                "price": "10.00",
+                "stock": -3,
+                "quantity": 1,
+                "total": "10.00"
+            },
+            {
+                "variant_id": 993244479508,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $10.00",
+                "price": "10.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244512276,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $25.00",
+                "price": "25.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244545044,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $50.00",
+                "price": "50.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244577812,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $100.00",
+                "price": "100.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 16145072488550,
+                "product_id": 1662977474662,
+                "variant_name": "Go-To Polo Navy - Large",
+                "price": "68.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 16145072521318,
+                "product_id": 1662977474662,
+                "variant_name": "Go-To Polo Navy - X-Large",
+                "price": "68.00",
+                "stock": 96
+            },
+            {
+                "variant_id": 16145425301606,
+                "product_id": 1663055069286,
+                "variant_name": "Loop Test Widget - Large",
+                "price": "10.00",
+                "stock": 39,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 13841570627686,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - S",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 13841570660454,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - M",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 13841570693222,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - L",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 42336967188,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Loud",
+                "price": "120.00",
+                "stock": 0
+            },
+            {
+                "variant_id": 155500412948,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Quiet",
+                "price": "120.00",
+                "stock": -2
+            },
+            {
+                "variant_id": 155500445716,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Ghost",
+                "price": "120.00",
+                "stock": -1
+            },
+            {
+                "variant_id": 42336616276,
+                "product_id": 10826335700,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/raven-2136081_1920.jpg?v=1496242881",
+                "variant_name": "Secret Raven - Default Title",
+                "price": "100.00",
+                "stock": 45,
+                "quantity": 1,
+                "total": "100.00"
+            },
+            {
+                "variant_id": 42336410516,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - Small",
+                "price": "10.00",
+                "stock": 42,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 155475247124,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - X-Small",
+                "price": "10.00",
+                "stock": 43,
+                "quantity": 1,
+                "total": "10.00"
+            },
+            {
+                "variant_id": 155475279892,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - Micro",
+                "price": "10.00",
+                "stock": 48,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 27919076917350,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - s",
+                "price": "10.00",
+                "stock": 9998
+            },
+            {
+                "variant_id": 27919076950118,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - m",
+                "price": "10.00",
+                "stock": 9998
+            },
+            {
+                "variant_id": 27919076982886,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - l",
+                "price": "0.00",
+                "stock": 10000
+            },
+            {
+                "variant_id": 31129997344870,
+                "product_id": 4371733610598,
+                "variant_name": "Unit Test Product - First",
+                "price": "10.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 31129997377638,
+                "product_id": 4371733610598,
+                "variant_name": "Unit Test Product - Second",
+                "price": "20.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 42336507860,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - Red",
+                "price": "5.10",
+                "stock": 77,
+                "quantity": 3,
+                "total": "15.30"
+            },
+            {
+                "variant_id": 155483340820,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - White",
+                "price": "5.10",
+                "stock": 97,
+                "quantity": 1,
+                "total": "5.10"
+            },
+            {
+                "variant_id": 155483406356,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - Translucent",
+                "price": "5.10",
+                "stock": 99
+            }
+        ]
+    },
+    {
+        "product_name": "Wise Old Bird",
+        "variants": [
+            {
+                "variant_id": 42336694548,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Small / Red",
+                "price": "12.00",
+                "stock": 30,
+                "quantity": 18,
+                "total": "216.00"
+            },
+            {
+                "variant_id": 155461517332,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Small / Blue",
+                "price": "12.00",
+                "stock": 38,
+                "quantity": 11,
+                "total": "120.00"
+            },
+            {
+                "variant_id": 155461550100,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Medium / Red",
+                "price": "12.00",
+                "stock": 5,
+                "quantity": 3,
+                "total": "36.00"
+            },
+            {
+                "variant_id": 155461582868,
+                "product_id": 10826345236,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280.jpg?v=1496242959",
+                "variant_name": "Colorful Birds - Medium / Blue",
+                "price": "12.00",
+                "stock": 42,
+                "quantity": 4,
+                "total": "48.00"
+            },
+            {
+                "variant_id": 28000476495974,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Small / Red",
+                "price": "12.00",
+                "stock": -13,
+                "quantity": 4,
+                "total": "48.00"
+            },
+            {
+                "variant_id": 28000476528742,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Small / Blue",
+                "price": "12.00",
+                "stock": 12,
+                "quantity": 6,
+                "total": "60.00"
+            },
+            {
+                "variant_id": 28000476594278,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Medium / Red",
+                "price": "12.00",
+                "stock": 8
+            },
+            {
+                "variant_id": 28000476627046,
+                "product_id": 3521288011878,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-874891_1280_7f8ab19d-7691-4cd2-945b-7831738b41d5.jpg?v=1558545666",
+                "variant_name": "Copy of Colorful Birds - Medium / Blue",
+                "price": "12.00",
+                "stock": 82,
+                "quantity": 1,
+                "total": "12.00"
+            },
+            {
+                "variant_id": 31462878609510,
+                "product_id": 4649679257702,
+                "variant_name": "Delete Variant - s",
+                "price": "10.00",
+                "stock": -3,
+                "quantity": 1,
+                "total": "10.00"
+            },
+            {
+                "variant_id": 993244479508,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $10.00",
+                "price": "10.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244512276,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $25.00",
+                "price": "25.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244545044,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $50.00",
+                "price": "50.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 993244577812,
+                "product_id": 75875614740,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/e38bd83af578077b65a31424bd24d085.png?v=1515444125",
+                "variant_name": "Gift Card - $100.00",
+                "price": "100.00",
+                "stock": 1
+            },
+            {
+                "variant_id": 16145072488550,
+                "product_id": 1662977474662,
+                "variant_name": "Go-To Polo Navy - Large",
+                "price": "68.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 16145072521318,
+                "product_id": 1662977474662,
+                "variant_name": "Go-To Polo Navy - X-Large",
+                "price": "68.00",
+                "stock": 96
+            },
+            {
+                "variant_id": 16145425301606,
+                "product_id": 1663055069286,
+                "variant_name": "Loop Test Widget - Large",
+                "price": "10.00",
+                "stock": 39,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 13841570627686,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - S",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 13841570660454,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - M",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 13841570693222,
+                "product_id": 1497275465830,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/loop_logo_small_c5e05cf0-4d59-4f08-8b36-cfbb651a34f9.png?v=1541195476",
+                "variant_name": "New Product - L",
+                "price": "10.00",
+                "stock": 9
+            },
+            {
+                "variant_id": 42336967188,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Loud",
+                "price": "120.00",
+                "stock": 0
+            },
+            {
+                "variant_id": 155500412948,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Quiet",
+                "price": "120.00",
+                "stock": -2
+            },
+            {
+                "variant_id": 155500445716,
+                "product_id": 10826373204,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/arara-1208025_1920.jpg?v=1496243186",
+                "variant_name": "Pete and His Brothers Repete - Ghost",
+                "price": "120.00",
+                "stock": -1
+            },
+            {
+                "variant_id": 42336616276,
+                "product_id": 10826335700,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/raven-2136081_1920.jpg?v=1496242881",
+                "variant_name": "Secret Raven - Default Title",
+                "price": "100.00",
+                "stock": 45,
+                "quantity": 1,
+                "total": "100.00"
+            },
+            {
+                "variant_id": 42336410516,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - Small",
+                "price": "10.00",
+                "stock": 42,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 155475247124,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - X-Small",
+                "price": "10.00",
+                "stock": 43,
+                "quantity": 1,
+                "total": "10.00"
+            },
+            {
+                "variant_id": 155475279892,
+                "product_id": 10826313492,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/alcedo-atthis-881594_1920.jpg?v=1496242694",
+                "variant_name": "Speedy - Micro",
+                "price": "10.00",
+                "stock": 48,
+                "quantity": 2,
+                "total": "20.00"
+            },
+            {
+                "variant_id": 27919076917350,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - s",
+                "price": "10.00",
+                "stock": 9998
+            },
+            {
+                "variant_id": 27919076950118,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - m",
+                "price": "10.00",
+                "stock": 9998
+            },
+            {
+                "variant_id": 27919076982886,
+                "product_id": 3495850672230,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/bird-golden-pheasant.jpg.838x0_q80.jpg?v=1556219567",
+                "variant_name": "The Wild Birds - l",
+                "price": "0.00",
+                "stock": 10000
+            },
+            {
+                "variant_id": 31129997344870,
+                "product_id": 4371733610598,
+                "variant_name": "Unit Test Product - First",
+                "price": "10.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 31129997377638,
+                "product_id": 4371733610598,
+                "variant_name": "Unit Test Product - Second",
+                "price": "20.00",
+                "stock": 100
+            },
+            {
+                "variant_id": 42336507860,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - Red",
+                "price": "5.10",
+                "stock": 77,
+                "quantity": 3,
+                "total": "15.30"
+            },
+            {
+                "variant_id": 155483340820,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - White",
+                "price": "5.10",
+                "stock": 97,
+                "quantity": 1,
+                "total": "5.10"
+            },
+            {
+                "variant_id": 155483406356,
+                "product_id": 10826322708,
+                "image": "https://cdn.shopify.com/s/files/1/2048/9723/products/birds-2290353_1920.jpg?v=1496242776",
+                "variant_name": "Wise Old Bird - Translucent",
+                "price": "5.10",
+                "stock": 99
+            }
+        ]
+    }
+]
