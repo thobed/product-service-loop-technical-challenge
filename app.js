@@ -25,7 +25,7 @@ app.use(compression({ filter: shouldCompress }));
 app.use(bodyParser.json());
 app.use(cors());
 
-var whitelist = ['http://localhost:8080/']
+var whitelist = ['http://localhost:3000/']
 var corsOptions = {
   origin: function (origin, callback) {
     if (whitelist.indexOf(origin) !== -1 || !origin) {
@@ -36,12 +36,17 @@ var corsOptions = {
   }
 }
 app.options(corsOptions, cors());
+
+
 const port = process.env.PORT || config.application.port;
 app.listen(port);
 logger.log('info', 'Express server listening on port %d', port);
 
 // Connect router
 const router = express.Router();
+
+// Connect swagger docs
+app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument));
 
 // check user authorization
 app.use(basicAuth({
@@ -51,7 +56,6 @@ app.use(basicAuth({
 app.use(config.application.endpointPrefix, router);
 require('./server/routes/')(router);
 
-// Connect swagger docs
-app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument));
+
 
 module.exports = app;
