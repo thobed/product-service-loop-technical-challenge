@@ -23,7 +23,7 @@
     "pg-promise": "^6.4.0",
     "request": "^2.88.2",
     "swagger-ui-express": "^3.0.9",
-    "validator": "^8.1.0",
+    "validator": "^13.7.0",
     "winston": "^2.4.2"
   },
   "devDependencies": {
