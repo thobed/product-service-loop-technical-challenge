@@ -35,7 +35,7 @@
     "node-mocks-http": "^1.7.0",
     "nodemon": "^1.17.5",
     "nyc": "^11.8.0",
-    "properties-reader": "^0.0.15",
+    "properties-reader": "^2.2.0",
     "sinon": "^3.2.1",
     "supertest": "^3.1.0",
     "cors": "^2.8.5"
